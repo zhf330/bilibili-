@@ -19,3 +19,5 @@ pip install -r requirements.txt
 以下是 B 站弹幕词频分析的词云图：
 
 ![弹幕词云图](output/弹幕词云图.png)
+
+郭惠言宝贝 永远爱你~

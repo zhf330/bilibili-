@@ -10,6 +10,12 @@
 
 ## 使用方法
 
-1. 安装依赖
-```bash
+安装依赖
+
 pip install -r requirements.txt
+
+## 📊 项目展示
+
+以下是 B 站弹幕词频分析的词云图：
+
+![弹幕词云图](output/弹幕词云图.png)
